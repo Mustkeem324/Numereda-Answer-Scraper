@@ -1,5 +1,11 @@
 # Numereda Answer Scraper
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Mustkeem324/PHP-Chegg-Answer-Scraper)
+![GitHub contributors](https://img.shields.io/github/contributors/Mustkeem324/PHP-Chegg-Answer-Scraper)
+![GitHub stars](https://img.shields.io/github/stars/Mustkeem324/PHP-Chegg-Answer-Scraper?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mustkeem324/PHP-Chegg-Answer-Scraper?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
+
 This Python Flask application serves as an API for scraping answers from the Numereda website. It takes a Numereda question URL as input and returns the question along with its answer and any associated video.
 
 ## Installation
